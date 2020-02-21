@@ -1,0 +1,1 @@
+.menu-mob{display:block;margin:24px 0 0 9px;width:32px;position:relative;height:4px;background-color:#fff}.menu-mob:before{content:"";display:block;width:32px;position:absolute;top:-12px;height:4px;border-top:4px solid #fff}.menu-mob:after{content:"";width:32px;height:4px;position:absolute;top:7px;border-bottom:4px solid #fff}
